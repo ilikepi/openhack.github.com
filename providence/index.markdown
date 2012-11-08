@@ -11,10 +11,11 @@ EOLclub is a monthly Providence, RI hacknight. Code, design, and collaborate wit
 
 ### Next meetup
 
-* Monday, November 5th, 2012 from 6pm–11pm at [Basics Group](http://basicsgroup.com)
+* Monday, December 3rd, 2012 from 6pm–11pm at [Basics Group](http://basicsgroup.com)
 
 ### Past meetups
 
+* November 5th, 2012 - 10 attendees
 * October 1st, 2012 - 6 attendees
 * August 6th, 2012 - 12 attendees
 * May 21st, 2012 - 6 attendees
